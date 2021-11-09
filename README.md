@@ -1,6 +1,6 @@
 # Crypto_Currency_News_Page
 ### Installation 
-<hr>
+
 In your terminal, install necesssary libraries:
 ```shell
 pip install -r requirements.txt
@@ -24,10 +24,9 @@ Run the application:
 python3 test/main.py
 ```
 ### Usage
-<hr>
 To use application provide a name of a existing cryptocurrency, and after refreshing it will scrap the news related to this currency.
 ### Example
-<hr>
+
 <p align="center">
   <img src="img/example.png" />
 </p>
