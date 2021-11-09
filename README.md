@@ -5,7 +5,7 @@ In your terminal, install necesssary libraries:
 pip install -r requirements.txt
 ```
 Create a table in advance to fill it later:
-```postgresql
+```postgres
 CREATE TABLE Paragraphs(
   id integer PRIMARY KEY,
   text VARCHAR
