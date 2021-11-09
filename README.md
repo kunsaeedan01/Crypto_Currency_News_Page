@@ -26,5 +26,5 @@ python3 test/main.py
 To use application provide a name of a existing cryptocurrency, and after refreshing it will scrap the news related to this currency.
 ### Example
 <p align="center">
-  <img src="" />
+  <img src="img/example.png" />
 </p>
