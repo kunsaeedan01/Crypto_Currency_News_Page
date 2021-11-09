@@ -1,11 +1,18 @@
 # Crypto_Currency_News_Page
 ### Installation 
 In your terminal, install necesssary libraries:
-```
+```shell
 pip install -r requirements.txt
 ```
+Or you can do it in order:
+```shell
+pip install flask 
+pip install flask_sqlalchemy
+pip install requests
+pip install selenium 
+```
 Create a table in advance to fill it later:
-```postgres
+```sql
 CREATE TABLE Paragraphs(
   id integer PRIMARY KEY,
   text VARCHAR
